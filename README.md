@@ -9,5 +9,5 @@ Die Tabelle wurde ursprünglich von Jörg Wellmitz vom Umweltbundesamt erstellt 
 # Kontakt
 
 Dr. Michael Rudschuck, DKE  Deutsche Kommission Elektrotechnik Elektronik Informationstechnik
-(Weiter Kontaktinformationen, siehe https://github.com/DIN-DKE)
+(Weitere Kontaktinformationen, siehe https://github.com/DIN-DKE)
 
